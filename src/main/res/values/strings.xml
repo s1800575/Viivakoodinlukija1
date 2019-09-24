@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Viivakoodinluku1</string>
+    <string name="viivakoodin_sisältö">Viivakoodin sisältö näytetään tässä</string>
+    <string name="painike1">Lue viivakoodi</string>
+</resources>
+
